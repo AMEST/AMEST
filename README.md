@@ -1,5 +1,5 @@
 ### Hi there 👋, i'am Erik, backend developer 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=amest&theme=github_dark" with="350px"/> 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=amest&theme=github_dark" width="480px"/> 
 
 ```csharp
 amest@github
