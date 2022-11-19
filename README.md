@@ -4,7 +4,7 @@
 ```csharp
 amest@github
 -------------------------
-OS: macOS Big Sur
+OS: macOS Ventura
 Shell: zsh 5.8
 Location: Yekaterinburg, Russian Federation
 Languages: C#, Python, Java
