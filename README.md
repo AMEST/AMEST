@@ -1,6 +1,4 @@
 ### Hi there 👋, i'am Erik, backend developer 
-
-Hi there 👋, i'am Erik.
 ==============================
 
 Software engineer
